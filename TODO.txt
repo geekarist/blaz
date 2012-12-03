@@ -1,0 +1,3 @@
+TODO:
+Create test for renaming all files in a directory. Replace input substring with something else.
+Fix renaming test.
